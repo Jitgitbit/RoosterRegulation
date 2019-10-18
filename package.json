@@ -1,0 +1,25 @@
+{
+  "name": "roosterregulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jitgitbit/RoosterRegulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jitgitbit/RoosterRegulation/issues"
+  },
+  "homepage": "https://github.com/Jitgitbit/RoosterRegulation#readme",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
